@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: #000000;
+}
+
+.jumbotron {
+    background-color: #000000;
+}
+
+.container {
+    text-align: center; 
+    color: white
+}
+
+.h5 {
+    text-align: left;
+}
+.col-sm-3 {
+    padding: 0 0;
+
+}
