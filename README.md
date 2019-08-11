@@ -1,7 +1,29 @@
-# unit-4-game
+ 
 **The Crystal Collector Game**
 
-Image Credits:
+### GA Tech Coding Boot Camp - HW 4
+
+Crystal Collector is a game in which the computer generates a random number, which the user then tries to match by adding the hidden, randomly selected values of four different gems: emeralds, opals, rubies, and tigereyes.  
+
+### Built With
+
+* HTML 5 
+* Boot Strap 
+* CSS
+* JavaScript
+* jQuery 
+
+### Author
+
+* Lisa Noetzel
+
+## Acknowledgments & Credits
+
+* Code and layout were inspired by Bronze Owl and NancyDLL.
+https://github.com/Bronzeowl/crystal-collector
+https://nancydll.github.io/Crystal-Collector/
+
+* Image Credits:
 Tiger's Eye: 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Marek_Novotnak&amp;action=edit&amp;redlink=1" class="new" title="User:Marek Novotnak (page does not exist)">Marek Novotnak</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9099863">Link</a>
 
